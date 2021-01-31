@@ -10,7 +10,7 @@ Ce **jeu de données** est composé :
 
 Les labels indiquent si la critique est positive (1) ou négative (0).
 
-Le but de notre modèle de **Deep Learning** sera de déterminer à partir d'une critique si l'**auteur** a **aimé le film ou non**, c'est-à-dire si la critique est positive ou non.
+Le but de notre modèle de **Deep Learning** sera de déterminer à partir d'une **critique de cinéma** si le spectateur a **aimé le film ou non**, c'est-à-dire si la critique est positive ou non.
 
 Nous allons donc **entraîner notre modèle** sur des données d'entraînement puis le **tester**, vérifier **ses capacités** sur des données de test.
 
